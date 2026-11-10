@@ -51,4 +51,4 @@ This project focuses on analyzing Vivo mobile sales data using **Power BI** for 
 ## 🔗 Author
 
 **Rahul Singh**  
-Entry-Level MIS Executive
+MIS Executive
